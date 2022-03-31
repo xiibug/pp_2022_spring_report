@@ -1,5 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/5hies4gp7lyrxs8n/branch/master?svg=true)](https://ci.appveyor.com/project/allnes/programming-course-reports/branch/master)
-![Build application](https://github.com/learning-process/programming_course_reports/workflows/Build%20application/badge.svg?branch=master)
+[![Build status](https://ci.appveyor.com/api/projects/status/cc5pe1pk7iyft4jx/branch/master?svg=true)](https://ci.appveyor.com/project/allnes/pp-2022-spring-report/branch/master)
+![Build application](https://github.com/allnes/pp_2022_spring_report/workflows/Build%20application/badge.svg?branch=master)
 
 # Programming Course Reports
 
